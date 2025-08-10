@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449087142299",
+    "project_id": "calibisync33-ui5ejh",
+    "storage_bucket": "calibisync33-ui5ejh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449087142299:android:d563abf8dd4041b504c93e",
+        "android_client_info": {
+          "package_name": "com.mycompany.calibisync3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD71t1EvPLv52NZQXdcKsygJwWvdiG6t-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
